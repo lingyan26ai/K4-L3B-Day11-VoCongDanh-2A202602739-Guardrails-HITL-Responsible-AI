@@ -4,6 +4,12 @@
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
 
+## Thông tin học viên
+
+- **Họ tên:** Võ Công Danh
+- **MSSV:** 2A202602739
+- **Tên repo nộp:** `K4-L3-DAY11-VoCongDanh-2A202602739-Guardrails-HITL-Responsible-AI`
+
 ---
 
 ## Thời lượng
